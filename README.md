@@ -1,6 +1,4 @@
-😂 This is actually solid beginner work. You separated logic into functions, used error handling, logging, requests, CSV parsing — that’s real programming, not tutorial-copying.
-
-A few things are breaking your logging though.
+PERSOANL NOTE
 
 ## 1. Your success log uses the wrong emoji
 
@@ -155,6 +153,3 @@ So instead:
 Render_File_Data(saved_file)
 ```
 
----
-
-You’re actually doing well. The code structure already looks way better than most beginner scripts 😂
